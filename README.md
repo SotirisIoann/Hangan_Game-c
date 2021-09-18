@@ -5,9 +5,10 @@ Simple hangman Game with C
   
   - Implements three basic advanced programming objects :  
                                                            
-                                                           Message Queues
-                                                           Shared Memory
-                                                           Signals
+         Message Queues
+         Shared Memory
+         Signals
+         
     Complile and run
     
         gcc -o h hangman.c
