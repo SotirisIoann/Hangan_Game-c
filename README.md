@@ -1,4 +1,4 @@
-# Hangan_Game-c
+# Hangman_Game-c
 Simple hangman Game with C
 
   TCP-IP SERVER CLIENT game.
