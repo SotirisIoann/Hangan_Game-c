@@ -4,7 +4,7 @@ Simple hangman Game with C
   TCP-IP SERVER CLIENT game.
   
   - Implements three basic advanced programming objects :  
-  -                                                        Message Queues
+                                                           Message Queues
                                                            Shared Memory
                                                            Signals
     Complile and run
