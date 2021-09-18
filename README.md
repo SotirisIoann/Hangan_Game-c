@@ -9,9 +9,11 @@ Simple hangman Game with C
                                                            Shared Memory
                                                            Signals
     Complile and run
-      gcc -o h hangman.c
-      gcc -o c clinet.c
+    
+        gcc -o h hangman.c
+        gcc -o c clinet.c
      
     Pass the dictionary for the server while execute it
-      ./h dictionary.txt   
+    
+        ./h dictionary.txt   
                                                         
